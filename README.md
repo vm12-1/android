@@ -10,12 +10,12 @@ $ mkdir ~/dev
 $ mkdir ~/dev/vm12-1
 $ cd ~/dev/vm12-1 Init core trees without any device/kernel/vendor :
 
-$ repo init -u https://github.com/vm12-1/android.git -b vm12-1 
+$ repo init -u https://github.com/vm12-1/android.git -b vm12.1 
+
 sync repo
-
 $ repo sync 
-Building
 
+Building
 After the sync is finished, please read the instructions from the Android site on how to build.
 
 $. build/envsetup.sh 
