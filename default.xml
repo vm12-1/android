@@ -27,7 +27,7 @@
            sync-c="true"
            sync-j="8" />
 
-  <project path="build" name="android_build" remote="vm12-1" revision="vm12.1" groups="pdk,tradefed" >
+  <project path="build" name="android_build" remote="LMP5" revision="LMP5-5.1" groups="pdk,tradefed" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
