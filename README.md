@@ -1,4 +1,4 @@
-VM12-1 by Team Nocturnal Download the source
+VM12-1 LickMePop Rom by Team Nocturnal Download the source
 
 Please read the VM12-1 building instructions before proceeding.
 
